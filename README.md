@@ -13,7 +13,7 @@ Volume Visualization Results".
 * First, change the directory path and iso values of the data in dataio.py.
 * Second, set the parameter settings (e.g., batch size, lr etc.) in main.py.
 * For training, set the 'train' as train and the 'approach' as CNN in the main.py.
-* For testing, set the 'train' as inf.
+* For testing, set the 'train' as inf in the main.py.
 
 # Citation
 @article{gu2023nervi,<br/>
