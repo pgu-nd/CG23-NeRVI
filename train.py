@@ -323,6 +323,7 @@ def adjust_lr(args, optimizer, epoch):
 #             imsave('../Result/'+'{:05d}'.format(count)+'.png',img)
 #             count += 1
 
+quant_axis =0
 
 def inf_CNN(args):
     for itera in [50]:
